@@ -13,11 +13,11 @@ const assignment = {};
  * @param {Array} arrayOfNumbers the array of numbers to sum
  * @returns number the sum of the numbers
  */
-let name=[20, 50, 30, 5, 9];
-function names(arrayOfNumbers) {
+let arraysOfNumbers = sumOfNumbers([10, 20, 30 ,40]);
+function sumOfNumbers(arrayOfNumbers) {
     return arrayOfNumbers.length;
 }
- names.sumOfNumbers = names;
+ assignment.sumOfNumbers = sumOfNumbers;
 
 /**
  * Challenge - 2
