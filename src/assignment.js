@@ -20,7 +20,6 @@ function sumOfNumbers(arrayOfNumbers) {
     total += arrayOfNumbers[i]; 
   }
   return total;
-    
 }
  assignment.sumOfNumbers = sumOfNumbers;
 
@@ -59,7 +58,6 @@ function countEvenNumbers(num) {
  * @returns Array the converted temperatures in Fahrenheit
  */
 function celsiusToFahrenheit(arrayOfNumbers) {
-  
     return arrayOfNumbers;
 }
 // assignment.celsiusToFahrenheit = celsiusToFahrenheit;
